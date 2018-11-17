@@ -101,16 +101,9 @@
             </thead>
             <tbody>
               <tr>
-                <th>Games 1</th>
-                <td>lkdsfjfdlj sdjl sjd</td>
-                <td>dlkjfakl aslkdd kljda</td>
-                <td>35%</td>
-              </tr>
-              <tr>
-                <th>Games 2</th>
-                <td>lkdsfjfdlj sdjl sjd</td>
-                <td>dlkjfakl aslkdd kljda</td>
-                <td>35%</td>
+                <th>Board0</th>
+                <td>e022b70f2559091874ff14ab445759de</td>
+                <td><span id="message">Waiting for peices...<span></td>
               </tr>
             </tbody>
           </table>
@@ -119,4 +112,24 @@
     </div>
   </section>
   </body>
+  <script>
+  $( document ).ready(function() {
+      console.log( "ready!" );
+        setInterval(()=>{
+          console.log("Get")
+          $.get( "board", function( data ) {
+              //$( ".result" ).html( data );
+              if("1"==data){
+                $("#message").html("White Horse 1 on the chessboard")
+              } else if ("2"==data) {
+                $("#message").html("White Horse 2 on the chessboard")
+              } else {
+                    $("#message").html("Waiting for peices...")
+              }
+              console.log(data)
+              console.log( "Load was performed." );
+            })
+        },1000)
+      });
+  </script>
 </html>
