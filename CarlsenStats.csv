@@ -1,0 +1,31 @@
+GAME_ID,PLAYER1_ID,PLAYER2_ID,WINNER,LIST_MOVE_THREE
+1,Carlsen,Ding,0,1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 
+2,Carlsen,So,0,1.c4 c5 2.g3 g6 3.Bg2 Bg7
+3,Carlsen,Karjakin,1,1.c4 Nf6 2.Nc3 e5 3.g3 Bb4
+4,Carlsen,Wei,1,1.d4 Nf6 2.Bg5 d5 3.e3 c5
+5,Carlsen,Vachier Lagrave,-1,1.e4 c5 2.Nf3 d6 3.d4 cxd4
+6,Carlsen,Nepomniachtchi,0,1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6
+7,Carlsen,Nakamura,0,1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6
+8,Carlsen,Topalov,1,1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6
+9,Carlsen,Ding,-1,1.d4 Nf6 2.c4 e6 3.Nf3 d5
+10,Carlsen,Amin,-1,1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+11,Carlsen,Ding,0,1.d4 Nf6 2.Bg5 d5 3.e3 c6
+12,Carlsen,So,1,1.e4 c5 2.Nf3 d6 3.d4 cxd5
+13,Carlsen,Karjakin,1,1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc7
+14,Carlsen,Wei,1,1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf7
+15,Carlsen,Vachier Lagrave,-1,1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc7
+16,Carlsen,Nepomniachtchi,1,1.d4 Nf6 2.c4 e6 3.Nf3 d6
+17,Carlsen,Nakamura,0,1.e4 e5 2.Nf3 Nc6 3.Bb5 a7
+18,Carlsen,So,1,1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc8
+19,Carlsen,Karjakin,-1,1.d4 Nf6 2.c4 e6 3.Nf3 d7
+20,Carlsen,Wei,-1,1.e4 e5 2.Nf3 Nc6 3.Bb5 a8
+21,Carlsen,Vachier Lagrave,-1,1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc9
+22,Carlsen,Nakamura,-1,1.d4 Nf6 2.Bg5 d5 3.e3 c5
+23,Carlsen,So,0,1.e4 c5 2.Nf3 d6 3.d4 cxd4
+24,Carlsen,Wei,-1,1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6
+25,Carlsen,Vachier Lagrave,1,1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6
+26,Carlsen,Nepomniachtchi,-1,1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6
+27,Carlsen,Nakamura,0,1.e4 c5 2.Nf3 d6 3.d4 cxd5
+28,Carlsen,So,0,1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+29,Carlsen,Karjakin,1,1.d4 Nf6 2.Bg5 d5 3.e3 c6
+30,Carlsen,Amin,-1,1.e4 c5 2.Nf3 d6 3.d4 cxd5
